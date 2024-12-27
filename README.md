@@ -1,5 +1,8 @@
 # 🌌 AstroWorld - Explorando o Universo de Forma Interativa
 
+![Captura de tela 2024-12-25 014704](https://github.com/user-attachments/assets/12c12087-f95a-45a1-b911-3b52c86575cc)
+
+
 ## 🛰️ **Sobre o Projeto**
 
 Este projeto foi desenvolvido como parte do **Trabalho de Conclusão de Curso (TCC)** do **Curso Técnico em Desenvolvimento de Sistemas da ETEC Sapopemba**. O **AstroWorld** busca democratizar o conhecimento da astronomia, tornando-o acessível e interativo. 
